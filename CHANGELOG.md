@@ -1,5 +1,11 @@
 # Changelog
 
+## 5.3.1
+
+### Patch Changes
+
+- Explicitly define `stats.toJson()` options for bundle analysis to support Rspack 2.0 with minimal code changes needed. (by [@SyMind](https://github.com/SyMind) in [#718](https://github.com/webpack/webpack-bundle-analyzer/pull/718))
+
 ## 5.3.0
 
 ### Minor Changes
